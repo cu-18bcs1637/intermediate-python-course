@@ -1,4 +1,4 @@
-# Intermediate Python Course
+# Dice Rolling Game
 
 Hey there, 
 
